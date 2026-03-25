@@ -8,7 +8,12 @@ $company_info = include __DIR__ . '/../site_identity/company_info.php';
         <div class="row g-4">
             
             <div class="col-lg-4">
-                <h4 class="fw-black text-white mb-4"><?php echo explode(' ', $company_info['company']['name'])[0]; ?> <span class="text-gold"><?php echo explode(' ', $company_info['company']['name'])[1]; ?></span></h4>
+                <div class="d-flex align-items-center mb-4">
+                    <div class="logo-container me-3">
+                        <img src="assets/logo.png" alt="Republic Logo" width="80" height="56" class="d-inline-block align-top">
+                    </div>
+                    <h4 class="fw-black text-white mb-0"><?php echo $company_info['company']['name'] ?></h4>
+                </div>
                 <p class="text-white-50 pe-lg-5 footer-desc">
                     <?php echo $company_info['company']['description']; ?>
                 </p>

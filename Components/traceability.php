@@ -2,11 +2,11 @@
     <div class="container py-lg-5">
         
         <div class="text-center mb-5">
-            <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Our Supply Chain</h6>
-            <h2 class="display-5 fw-bold text-dark mb-3">Farm-to-Fork Journey</h2>
+            <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Our Distribution Network</h6>
+            <h2 class="display-5 fw-bold text-dark mb-3">Field-to-Table Process</h2>
             <div class="divider-gold divider-center"></div>
             <p class="lead text-muted mx-auto max-w-750">
-                Transparency is at the heart of Republic Exim. Every fruit and vegetable undergoes a rigorous 4-step process to ensure global safety standards.
+                Clarity drives Harvest Exim. Every harvest item follows a stringent 4-phase protocol ensuring worldwide safety compliance.
             </p>
         </div>
 
@@ -17,32 +17,32 @@
                 <div class="step-icon-wrap mb-4 mx-auto shadow-sm">
                     <i class="fas fa-leaf fa-2x"></i>
                 </div>
-                <h5 class="fw-bold">01. Ethical Sourcing</h5>
-                <p class="small text-muted px-3">Direct partnerships with certified global farms ensuring fair trade and premium soil quality.</p>
+                <h5 class="fw-bold">01. Responsible Procurement</h5>
+                <p class="small text-muted px-3">Direct collaborations with certified international farms ensuring ethical trade and superior soil conditions.</p>
             </div>
 
             <div class="col-lg-3 text-center position-relative z-2">
                 <div class="step-icon-wrap mb-4 mx-auto shadow-sm">
                     <i class="fas fa-microscope fa-2x"></i>
                 </div>
-                <h5 class="fw-bold">02. Quality Sorting</h5>
-                <p class="small text-muted px-3">Strict multi-level grading and residue testing in compliance with Dubai Municipality standards.</p>
+                <h5 class="fw-bold">02. Excellence Grading</h5>
+                <p class="small text-muted px-3">Comprehensive multi-level classification and contaminant screening meeting Dubai Municipality regulations.</p>
             </div>
 
             <div class="col-lg-3 text-center position-relative z-2">
                 <div class="step-icon-wrap mb-4 mx-auto shadow-sm">
                     <i class="fas fa-snowflake fa-2x"></i>
                 </div>
-                <h5 class="fw-bold">03. Cold Storage</h5>
-                <p class="small text-muted px-3">Immediate pre-cooling and storage in temperature-controlled facilities to lock in nutrients.</p>
+                <h5 class="fw-bold">03. Chilled Preservation</h5>
+                <p class="small text-muted px-3">Immediate pre-cooling and storage in climate-controlled facilities to preserve nutritional content.</p>
             </div>
 
           <div class="col-lg-3 text-center position-relative z-2">
     <div class="step-icon-wrap mb-4 mx-auto shadow-sm">
         <i class="fas fa-shipping-fast fa-2x"></i>
     </div>
-    <h5 class="fw-bold">04. Global Logistics</h5>
-    <p class="small text-muted px-3">Seamless air and sea freight with real-time tracking from Jebel Ali Port to your destination.</p>
+    <h5 class="fw-bold">04. Worldwide Distribution</h5>
+    <p class="small text-muted px-3">Efficient air and sea freight with live monitoring from Jebel Ali Port to final destination.</p>
 </div>
         </div>
 
@@ -50,23 +50,23 @@
             <div class="border-start border-2 border-warning ms-4 ps-4">
                 <div class="mb-5 position-relative">
                     <span class="mobile-step-num">01</span>
-                    <h5 class="fw-bold">Ethical Sourcing</h5>
-                    <p class="text-muted small">Partnering with global farms for sustainable produce.</p>
+                    <h5 class="fw-bold">Responsible Procurement</h5>
+                    <p class="text-muted small">Collaborating with international growers for sustainable harvests.</p>
                 </div>
                 <div class="mb-5 position-relative">
                     <span class="mobile-step-num">02</span>
-                    <h5 class="fw-bold">Quality Sorting</h5>
-                    <p class="text-muted small">Rigorous testing for chemical residues and size grading.</p>
+                    <h5 class="fw-bold">Excellence Grading</h5>
+                    <p class="text-muted small">Thorough inspection for chemical contaminants and size classification.</p>
                 </div>
                 <div class="mb-5 position-relative">
                     <span class="mobile-step-num">03</span>
-                    <h5 class="fw-bold">Cold Storage</h5>
-                    <p class="text-muted small">Preserving freshness through advanced cooling technology.</p>
+                    <h5 class="fw-bold">Chilled Preservation</h5>
+                    <p class="text-muted small">Maintaining freshness through advanced refrigeration systems.</p>
                 </div>
                 <div class="mb-0 position-relative">
                     <span class="mobile-step-num">04</span>
-                    <h5 class="fw-bold">Global Logistics</h5>
-                    <p class="text-muted small">Fast-track delivery across the continents.</p>
+                    <h5 class="fw-bold">Worldwide Distribution</h5>
+                    <p class="text-muted small">Rapid delivery across international markets.</p>
                 </div>
             </div>
         </div>

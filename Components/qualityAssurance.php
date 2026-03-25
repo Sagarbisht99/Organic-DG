@@ -15,11 +15,11 @@
 
             <div class="col-lg-6">
                 <div class="ps-lg-4">
-                    <h6 class="fw-bold text-uppercase mb-2 text-gold ls-2">Our Standards</h6>
-                    <h2 class="display-5 fw-bold mb-4 text-dark">Quality Assurance & <br><span class="text-gold">Certification</span></h2>
+                    <h6 class="fw-bold text-uppercase mb-2 text-gold ls-2">Our Protocols</h6>
+                    <h2 class="display-5 fw-bold mb-4 text-dark">Excellence Assurance & <br><span class="text-gold">Accreditation</span></h2>
                     
                     <p class="text-muted mb-5 fs-5">
-                        We maintain the highest standards of quality control throughout our supply chain, ensuring that every product meets international safety requirements.
+                        We uphold the highest benchmarks of excellence control throughout our distribution network, ensuring every product meets worldwide safety requirements.
                     </p>
 
                     <div class="row g-4">
@@ -29,8 +29,8 @@
                                     <div class="mb-3 d-inline-flex align-items-center justify-content-center avatar-square avatar-gold">
                                         <i class="fas fa-truck fa-lg"></i>
                                     </div>
-                                    <h5 class="fw-bold text-dark">Cold Chain</h5>
-                                    <p class="small text-muted mb-0">Temperature controlled transportation for maximum freshness.</p>
+                                    <h5 class="fw-bold text-dark">Temperature Control</h5>
+                                    <p class="small text-muted mb-0">Climate-regulated transportation for optimal freshness.</p>
                                 </div>
                             </div>
                         </div>
@@ -41,8 +41,8 @@
                                     <div class="mb-3 d-inline-flex align-items-center justify-content-center avatar-square avatar-gold">
                                         <i class="fas fa-shield-alt fa-lg"></i>
                                     </div>
-                                    <h5 class="fw-bold text-dark">Traceability</h5>
-                                    <p class="small text-muted mb-0">Complete farm-to-fork tracking and transparency.</p>
+                                    <h5 class="fw-bold text-dark">Tracking System</h5>
+                                    <p class="small text-muted mb-0">Complete field-to-table monitoring and transparency.</p>
                                 </div>
                             </div>
                         </div>
@@ -50,7 +50,7 @@
                     
                     <div class="mt-5">
                         <a href="contact.php" class="btn btn-lg px-5 py-3 rounded-0 shadow fw-bold transition-btn bg-brand-dark text-gold">
-                            REQUEST QUALITY REPORT
+                            GET EXCELLENCE REPORT
                         </a>
                     </div>
                 </div>

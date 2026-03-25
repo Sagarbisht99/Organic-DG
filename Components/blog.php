@@ -2,8 +2,8 @@
     <div class="container py-lg-5">
         <div class="d-flex justify-content-between align-items-end mb-5">
             <div>
-                <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Market Insights</h6>
-                <h2 class="display-5 fw-bold text-dark mb-0">Latest Updates</h2>
+                <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Market Analysis</h6>
+                <h2 class="display-5 fw-bold text-dark mb-0">Current Developments</h2>
                 <div class="divider-gold mt-3"></div>
             </div>
             <div class="d-flex gap-2">
@@ -30,8 +30,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">FEB 12, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">Wheat Market: 2026 Supply Forecast</h5>
-                                    <p class="text-muted small">Global milling operations are shifting as new export funding hits the US wheat market...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">Wheat Sector: 2026 Supply Outlook</h5>
+                                    <p class="text-muted small">International milling operations are transforming as new export financing reaches the US wheat market...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -44,8 +44,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">FEB 10, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">AI in Cold Chain Management</h5>
-                                    <p class="text-muted small">How real-time tracking is reducing spoilage in Middle Eastern fruit exports...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">AI in Temperature Management</h5>
+                                    <p class="text-muted small">How live monitoring is reducing spoilage in Middle Eastern fruit exports...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -58,8 +58,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">FEB 08, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">Top 10 Global Rice Exporters</h5>
-                                    <p class="text-muted small">A detailed look at why Vietnam and India remain the dominant forces in rice trade...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">Leading 10 International Rice Suppliers</h5>
+                                    <p class="text-muted small">An in-depth look at why Vietnam and India remain dominant forces in rice commerce...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -77,8 +77,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">FEB 05, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">Organic Spice Demand in Europe</h5>
-                                    <p class="text-muted small">The surge in demand for chemical-free turmeric and saffron across the EU...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">Natural Seasoning Demand in Europe</h5>
+                                    <p class="text-muted small">The rising need for chemical-free turmeric and saffron across the EU...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -91,8 +91,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">FEB 01, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">UAE-Africa New Trade Corridors</h5>
-                                    <p class="text-muted small">Exploring the MoUs worth $4.5B signed for agricultural investment and export...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">UAE-Africa New Commerce Routes</h5>
+                                    <p class="text-muted small">Exploring agreements worth $4.5B signed for agricultural investment and export...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -105,8 +105,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">JAN 28, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">Premium Tea: Sourcing Strategies</h5>
-                                    <p class="text-muted small">How to distinguish your brand story in the fierce global loose-leaf tea market...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">Premium Tea: Procurement Approaches</h5>
+                                    <p class="text-muted small">How to distinguish your brand narrative in the competitive international loose-leaf tea market...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -124,8 +124,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">JAN 25, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">Scaling Regenerative Agriculture</h5>
-                                    <p class="text-muted small">Innovative solutions to feed the growing world while restoring soil health...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">Expanding Regenerative Farming</h5>
+                                    <p class="text-muted small">Innovative solutions to feed the growing population while restoring soil vitality...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>
@@ -138,8 +138,8 @@
                                 </div>
                                 <div class="card-body p-4">
                                     <small class="text-muted fw-bold fs-xxs">JAN 20, 2026</small>
-                                    <h5 class="fw-bold mt-2 mb-3">New SPS Measures for 2026</h5>
-                                    <p class="text-muted small">How new Sanitary and Phytosanitary regulations are impacting foodstuff imports...</p>
+                                    <h5 class="fw-bold mt-2 mb-3">Updated SPS Protocols for 2026</h5>
+                                    <p class="text-muted small">How new Sanitary and Phytosanitary regulations are affecting foodstuff imports...</p>
                                     <a href="#" class="text-dark fw-bold text-decoration-none small border-bottom border-warning pb-1">READ MORE</a>
                                 </div>
                             </div>

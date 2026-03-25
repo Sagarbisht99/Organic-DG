@@ -3,8 +3,8 @@
         
         <div class="d-flex justify-content-between align-items-end mb-5">
             <div>
-                <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Partner Feedback</h6>
-                <h2 class="display-5 fw-bold text-white mb-0">What Our Clients Say</h2>
+                <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Client Feedback</h6>
+                <h2 class="display-5 fw-bold text-white mb-0">What Our Associates Say</h2>
                 <div class="divider-gold mt-3"></div>
             </div>
             <div class="d-flex gap-2">
@@ -29,7 +29,7 @@
                                     <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
                                 <p class="text-secondary font-italic mb-4">
-                                    "Outstanding quality and reliability. Republic Exim has been our trusted partner for over 5 years. Their products consistently meet our high standards."
+                                    "Exceptional excellence and dependability. Harvest Exim has been our trusted associate for over 5 years. Their products consistently meet our elevated standards."
                                 </p>
                                 <div class="d-flex align-items-center mt-auto border-top pt-3">
                                     <div class="rounded-0 d-flex align-items-center justify-content-center fw-bold text-white shadow-sm avatar-square avatar-gold">JD</div>
@@ -47,7 +47,7 @@
                                     <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
                                 <p class="text-secondary font-italic mb-4">
-                                    "The best export partner we've worked with. Their attention to detail in packaging and private labeling for our Dubai supermarket chain is exceptional."
+                                    "The finest export associate we've collaborated with. Their precision in packaging and brand labeling for our Dubai supermarket chain is remarkable."
                                 </p>
                                 <div class="d-flex align-items-center mt-auto border-top pt-3">
                                     <div class="rounded-0 d-flex align-items-center justify-content-center fw-bold text-white shadow-sm avatar-square avatar-dark">SM</div>
@@ -65,7 +65,7 @@
                                     <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
                                 <p class="text-secondary font-italic mb-4">
-                                    "Professional and reliable. They go above and beyond for satisfaction. Their wheat and grains are top-tier and always clean."
+                                    "Professional and dependable. They exceed expectations for satisfaction. Their wheat and grains are superior-grade and always clean."
                                 </p>
                                 <div class="d-flex align-items-center mt-auto border-top pt-3">
                                     <div class="rounded-0 d-flex align-items-center justify-content-center fw-bold text-white shadow-sm avatar-square avatar-dark">RJ</div>
@@ -88,7 +88,7 @@
                                     <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                 </div>
                                 <p class="text-secondary font-italic mb-4">
-                                    "Extremely satisfied with the logistics. Their real-time tracking from farm to port made our job 10 times easier. Great communication!"
+                                    "Highly satisfied with the distribution. Their live monitoring from field to port made our operations 10 times more efficient. Excellent communication!"
                                 </p>
                                 <div class="d-flex align-items-center mt-auto border-top pt-3">
                                     <div class="rounded-0 d-flex align-items-center justify-content-center fw-bold text-white shadow-sm avatar-square avatar-dark">AK</div>

@@ -1,10 +1,10 @@
 <section id="export-map" class="py-5 bg-white">
     <div class="container py-lg-5">
         <div class="text-center mb-5">
-            <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Our Presence</h6>
-            <h2 class="display-5 fw-bold mb-3 text-dark">Global Export Destinations</h2>
+            <h6 class="text-uppercase fw-bold mb-2 text-gold ls-3">Our Reach</h6>
+            <h2 class="display-5 fw-bold mb-3 text-dark">Worldwide Export Markets</h2>
             <div class="divider-gold divider-center"></div>
-            <p class="lead text-muted mx-auto max-w-700">Connecting Dubai's logistics hub with premium markets across six continents.</p>
+            <p class="lead text-muted mx-auto max-w-700">Linking Dubai's distribution hub with premium markets across multiple continents.</p>
         </div>
         
         <!-- <div class="row mb-5">
@@ -35,8 +35,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">United States</h4>
                                         <p class="text-muted small mb-4">New York, Los Angeles, Miami</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">8 Major Ports</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Daily</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">8 Key Ports</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Continuous</span>
                                         </div>
                                     </div>
                                 </div>
@@ -48,8 +48,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">United Kingdom</h4>
                                         <p class="text-muted small mb-4">London, Manchester, Liverpool</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">5 Strategic Hubs</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Weekly</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">5 Strategic Centers</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Regular</span>
                                         </div>
                                     </div>
                                 </div>
@@ -61,8 +61,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">Germany</h4>
                                         <p class="text-muted small mb-4">Hamburg, Frankfurt, Munich</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">6 Trade Centers</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Weekly</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">6 Commerce Points</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Regular</span>
                                         </div>
                                     </div>
                                 </div>
@@ -79,8 +79,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">Japan</h4>
                                         <p class="text-muted small mb-4">Tokyo, Osaka, Yokohama</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">4 Major Ports</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Bi-Weekly</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">4 Principal Ports</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Bi-Monthly</span>
                                         </div>
                                     </div>
                                 </div>
@@ -92,8 +92,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">Australia</h4>
                                         <p class="text-muted small mb-4">Sydney, Melbourne, Brisbane</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">5 Trade Zones</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Bi-Weekly</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">5 Distribution Zones</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Bi-Monthly</span>
                                         </div>
                                     </div>
                                 </div>
@@ -105,8 +105,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">Canada</h4>
                                         <p class="text-muted small mb-4">Toronto, Vancouver, Montreal</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">4 Major Cities</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Weekly</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">4 Key Cities</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Regular</span>
                                         </div>
                                     </div>
                                 </div>
@@ -123,8 +123,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">Singapore</h4>
                                         <p class="text-muted small mb-4">Singapore Port, Changi</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">2 Major Hubs</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Daily</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">2 Main Centers</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Continuous</span>
                                         </div>
                                     </div>
                                 </div>
@@ -136,8 +136,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">France</h4>
                                         <p class="text-muted small mb-4">Paris, Marseille, Lyon</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">4 Trade Centers</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Weekly</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">4 Commerce Points</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Regular</span>
                                         </div>
                                     </div>
                                 </div>
@@ -149,8 +149,8 @@
                                         <h4 class="fw-bold mb-2 text-dark">UAE</h4>
                                         <p class="text-muted small mb-4">Dubai, Abu Dhabi, Sharjah</p>
                                         <div class="d-flex justify-content-center gap-2">
-                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">3 Major Ports</span>
-                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Daily</span>
+                                            <span class="p-2 border border-dark small fw-bold text-uppercase fs-10 text-dark">3 Principal Ports</span>
+                                            <span class="p-2 bg-dark text-white small fw-bold text-uppercase fs-10">Continuous</span>
                                         </div>
                                     </div>
                                 </div>

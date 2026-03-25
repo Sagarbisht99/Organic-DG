@@ -182,25 +182,21 @@
 
 /* Navigation */
 .navbar {
-  background: rgba(255, 255, 255, 0.98);
-  backdrop-filter: blur(20px);
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  transition: all 0.4s ease;
-  border-bottom: 3px solid var(--primary-green);
+  background: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  z-index: 10;
 }
 
 .navbar.scrolled {
   padding: 0.5rem 0;
-  background: rgba(255, 255, 255, 1);
+  background: #ffffff !important;
 }
 
 .navbar-brand {
   font-weight: 800;
-  color: var(--primary-green) !important;
+  color: #000000 !important;
   font-size: 1.8rem;
-  display: flex;
-  align-items: center;
-  gap: 10px;
   transition: all 0.3s ease;
 }
 
@@ -731,6 +727,10 @@ body {
   border-color: #ffffff;
   color: #ffffff;
 }
+.btn-hero-outline-light:hover {
+  background-color: #ffffff;
+  color: var(--brand-dark);
+}
 
 .chain-line {
   position: absolute;
@@ -897,16 +897,16 @@ body {
   letter-spacing: 2.2px;
 }
 .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: #000000 !important;
   font-size: 0.85rem;
   font-weight: 700;
-  letter-spacing: 1.5px;
+  text-transform: uppercase;
   padding: 0.5rem 1rem !important;
   transition: 0.3s;
 }
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-  color: var(--brand-gold) !important;
+  color: var(--accent-orange) !important;
 }
 .btn-gold-nav {
   background-color: var(--brand-gold);
@@ -924,10 +924,46 @@ body {
 }
 @media (max-width: 991px) {
   .navbar-collapse {
-    background: var(--brand-dark);
+    background: var(--bs-white);
     margin-top: 1rem;
     padding: 1.5rem;
     border-top: 3px solid var(--brand-gold);
+  }
+
+  .navbar-nav .nav-link {
+    color: var(--brand-dark) !important;
+  }
+
+  .navbar-nav .nav-link.active,
+  .navbar-nav .nav-link:hover {
+    color: var(--brand-gold) !important;
+  }
+  
+  /* Fix hamburger menu icon visibility and scalability */
+  .navbar-toggler {
+    border: none !important;
+    padding: 8px 12px !important;
+  }
+  
+  .navbar-toggler:focus {
+    box-shadow: none !important;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+    width: 24px !important;
+    height: 24px !important;
+    transition: all 0.3s ease !important;
+  }
+  
+  .navbar-toggler:hover .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+    transform: scale(1.1) !important;
+  }
+  
+  /* Make hamburger menu more accessible */
+  .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
   }
 }
 
@@ -1078,11 +1114,157 @@ text-decoration: none;
   box-shadow: 0 14px 32px rgba(0, 0, 0, 0.2);
   color: #ffffff;
 }
+/* Contact Page Specific Styles */
+.contact-hero {
+  background: linear-gradient(rgba(26, 26, 26, 0.9), rgba(26, 26, 26, 0.9)), 
+              url('https://images.pexels.com/photos/4483610/pexels-photo-4483610.jpeg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.contact-card {
+  border: none;
+  border-top: 5px solid var(--brand-gold);
+  box-shadow: 0 15px 50px rgba(0,0,0,0.15);
+  margin-top: -150px;
+}
+
+.form-control, .form-select {
+  border: 1px solid #e0e0e0;
+  padding: 12px 15px;
+  transition: 0.3s;
+}
+
+.form-control:focus {
+  border-color: var(--brand-gold);
+  box-shadow: none;
+}
+
+.info-box {
+  background: #f8f9fa;
+  border-left: 3px solid var(--brand-gold);
+  transition: 0.3s;
+}
+
+.info-box:hover {
+  transform: translateX(5px);
+  background: #fff;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.map-wrapper iframe {
+  filter: grayscale(100%) invert(90%);
+}
+
+.btn-contact-submit {
+  background: var(--brand-dark);
+  color: white;
+  letter-spacing: 2px;
+  border: none;
+}
+
+.btn-contact-submit:hover {
+  background: var(--brand-gold);
+  color: var(--brand-dark);
+}
+
+.btn-contact-submit i {
+  color: var(--brand-gold);
+  font-size: 0.8rem;
+}
+
+.btn-contact-submit:hover i {
+  color: var(--brand-dark);
+}
+
+/* Contact page social links enhancement */
+.contact-social .social-link {
+  background: var(--brand-dark);
+  color: white;
+}
+
+.contact-social .social-link:hover {
+  background: var(--brand-gold);
+  color: var(--brand-dark);
+}
+
+/* End Contact Page Styles */
+
+/* About Page Specific Styles */
+.about-hero {
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+              url('../assets/about/image-2.png');
+  background-size: cover;
+  background-position: center;
+  padding: 140px 0;
+  color: white;
+}
+
+.mission-box {
+  border-left: 5px solid var(--brand-gold);
+  padding: 30px;
+  background: #f8f9fa;
+}
+
+.step-icon {
+  width: 80px;
+  height: 80px;
+  background: var(--brand-dark);
+  color: var(--brand-gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  margin: 0 auto 20px;
+  transition: 0.3s;
+}
+
+.step-card:hover .step-icon {
+  background: var(--brand-gold);
+  color: var(--brand-dark);
+  transform: translateY(-10px);
+}
+
+.stats-dark {
+  background: var(--brand-dark);
+  color: white;
+  padding: 80px 0;
+}
+
+.gold-divider {
+  width: 60px;
+  height: 4px;
+  background: var(--brand-gold);
+  margin: 20px 0;
+}
+
+/* End About Page Styles */
+
 @media (max-width: 576px) {
   .floating-whatsapp {
     right: 16px;
     bottom: 16px;
     width: 50px;
     height: 50px;
+  }
+  
+  /* Additional mobile navbar improvements */
+  .navbar-toggler {
+    padding: 6px 10px !important;
+  }
+  
+  .navbar-toggler-icon {
+    width: 20px !important;
+    height: 20px !important;
+  }
+  
+  .main-nav {
+    padding: 0.5rem 0 !important;
+  }
+  
+  .navbar-brand img {
+    width: 60px !important;
+    height: 50px !important;
   }
 }
